@@ -16,6 +16,10 @@ Enter the code for admin.py and models.py
 
 ## STEP 4:
 Execute Django admin and create details for 10 Bank loan
+## STEP 5:
+ Entity Relationship Diagram
+ 
+![orm ER diagram](https://github.com/user-attachments/assets/8e371926-d927-494e-a42c-175bcbc1559d)
 
 # PROGRAM
 ```
